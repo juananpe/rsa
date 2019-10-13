@@ -1,5 +1,3 @@
-import org.graalvm.compiler.hotspot.replacements.BigIntegerSubstitutions;
-
 import java.math.BigInteger;
 import java.util.Random;
 
